@@ -1,1 +1,1 @@
-# Final-Project
+In this Data Science R Project, one of the most essential applications of machine learning – Customer Segmentation is carried out. In this project, we will implement customer segmentation in R. Whenever we need to find the best customer, customer segmentation is the ideal methodology.
